@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/notezipper/static/css/main.52ac2126.chunk.css",
+    "main.js": "/notezipper/static/js/main.65f1c29c.chunk.js",
+    "main.js.map": "/notezipper/static/js/main.65f1c29c.chunk.js.map",
+    "runtime-main.js": "/notezipper/static/js/runtime-main.2c56465b.js",
+    "runtime-main.js.map": "/notezipper/static/js/runtime-main.2c56465b.js.map",
+    "static/js/2.7031ac62.chunk.js": "/notezipper/static/js/2.7031ac62.chunk.js",
+    "static/js/2.7031ac62.chunk.js.map": "/notezipper/static/js/2.7031ac62.chunk.js.map",
+    "static/js/3.4f35dafe.chunk.js": "/notezipper/static/js/3.4f35dafe.chunk.js",
+    "static/js/3.4f35dafe.chunk.js.map": "/notezipper/static/js/3.4f35dafe.chunk.js.map",
+    "index.html": "/notezipper/index.html",
+    "static/css/main.52ac2126.chunk.css.map": "/notezipper/static/css/main.52ac2126.chunk.css.map",
+    "static/js/2.7031ac62.chunk.js.LICENSE.txt": "/notezipper/static/js/2.7031ac62.chunk.js.LICENSE.txt",
+    "static/media/LandingStyles.css": "/notezipper/static/media/background1.8369ba11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c56465b.js",
+    "static/js/2.7031ac62.chunk.js",
+    "static/css/main.52ac2126.chunk.css",
+    "static/js/main.65f1c29c.chunk.js"
+  ]
+}
